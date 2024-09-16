@@ -33,7 +33,7 @@ Encounter issues? Check out our FAQ or post your questions and feedback on our I
 
 ## 📰 Stay Updated
 
-Follow us on Mastodon [@3615.computer@VoidMesh](https://3615.computer/@VoidMesh) for the latest updates, teaseries, and community highlights.
+Follow us on Mastodon [@social.alyx.pink@VoidMesh](https://social.alyx.pink/@VoidMesh) for the latest updates, teaseries, and community highlights.
 
 ## 🙇 Acknowledgments
 
